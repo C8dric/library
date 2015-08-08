@@ -1,0 +1,41 @@
+A faire :
+
+- Top des auteurs favoris sur la page home
+- Rappel des date de fin les plus proches sur la page home
+- Modification du nom et du prénom des auteurs
+- Message de confirmation avant suppression
+- Passage sous cakePHP ou codeIgniter
+
+26-10-2014 (V 2.001)
+
+- Affichage de la liste des livres à rendre dans les 14 prochains jours.
+
+12-10-2014 (V 2.001)
+
+- Passage sous un nouvel hébergeur (1and1)
+- Mise en place d'une version de DEV pour les développement et d'une version de PREPROD pour les test
+
+13-01-2014 (V 2.0):
+
+- Ajout / Modification des dates d'emprunts
+- Ajout / Modification des notes
+- Changement de couleur des boutons
+- Backup base de donnée
+- Mise en production et remplacement de l'ancienne version
+
+10-01-2014 (V Béta 2.0) :
+
+- Refonte totale du site avec le framework Bootstrap
+- Correction de la fonction de logout
+- Ajout d'un fichier de log pour suivre les évolutions dans le temps
+- Ajout de l'affichage des dates d'emprunt
+- Ajout de l'affichage des notes
+
+
+26-12-2012 (V 1.2) :
+
+- Correction bug de connexion
+- Correction encodage UTF-8 page ml.php
+- Lien pour retourner à la page livres.php depuis ml.php
+- Ajout des colonnes 'Date d'emprunt', 'Date de retour' et 'Note' dans la page livres.php
+- Ajout d'une partie log pour suivre les différentes versions du site et les améliorations
